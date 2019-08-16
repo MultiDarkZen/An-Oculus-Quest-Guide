@@ -1,6 +1,5 @@
 # An-Oculus-Quest-Guide
-This is a simple to easy follow guide on how to use ALVR and install ADB
----Oculus Quest Guide---
+
 How to Install ADB: Download ADB platform TOOLS and put it in Windows (C:), enable developer mode on your Oculus Quest device via the Oculus app on your phone
 
 How to Sideload APK/GAMES using ADB + windows Power shell Window:Press Shift+Right Click inside of the window of 
